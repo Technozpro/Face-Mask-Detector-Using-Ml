@@ -17,7 +17,7 @@ Output: With Mask or Without Mask
 
 <p>
 <img src="https://i.im.ge/2021/07/19/dL1cm.png" alt='sentimnet-analysis' align="left" height=300 width=480> </a>
-<img src="https://i.im.ge/2021/07/19/dL2er.png" alt='sentimnet-analysis' align="right" height=300 width=480> </a></p>
+<img src="https://i.im.ge/2021/07/19/dL2er.png" alt='sentimnet-analysis' align="right" height=300 width=480> </a></p><br>
 
 
 
@@ -28,7 +28,6 @@ Output: With Mask or Without Mask
 
 <p>
 Ability & Potentials:
-
 Recall rate on FDDB:70.6, Classification Accuracy: 85.7.
 
 Less than 300 milliseconds processing time.
