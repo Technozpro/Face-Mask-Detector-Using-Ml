@@ -5,7 +5,7 @@ Detect that the person wear a mask or not. It is necessary for many places speci
 <img src="https://5.imimg.com/data5/PI/FD/NK/SELLER-5866466/images-500x500.jpg" alt='sentimnet-analysis' height=300 width=480> </a></p>
 
 <p>
-- Ability & Potentials:
+-  Ability & Potentials:
   
 1. Recall rate on FDDB:70.6, Classification Accuracy: 85.7.
 
@@ -27,7 +27,7 @@ Detect that the person wear a mask or not. It is necessary for many places speci
 
 - Use Cases:
 
-Building access control
+  Building access control
 
 - Rules & Restrictions:
 
