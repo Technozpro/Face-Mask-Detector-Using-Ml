@@ -62,3 +62,6 @@ Detect that the person wear a mask or not. It is necessary for many places speci
 <img src="https://i.im.ge/2021/07/19/dL2er.png" alt='sentimnet-analysis' align="right" height=300 width=480> </a><br>
 </p>
 
+- Project Details =
+  Dataset Link: https://drive.google.com/drive/folders/1CKZBRwqNECE6aaFUREp1ME8nLP6kWvCk?usp=sharing
+  Sourc file Link: https://colab.research.google.com/drive/1tbFVJMQsF__cCXqcu8MC3UKCtesX9C8O?usp=sharing
