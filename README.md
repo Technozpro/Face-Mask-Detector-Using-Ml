@@ -6,6 +6,7 @@ Detect that the person wear a mask or not. It is necessary for many places speci
 
 <p>
 - Ability & Potentials:
+  
 1. Recall rate on FDDB:70.6, Classification Accuracy: 85.7.
 
 2. Less than 300 milliseconds processing time.
