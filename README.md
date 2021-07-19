@@ -17,11 +17,8 @@ Output: With Mask or Without Mask
 
 <p>
 <img src="https://i.im.ge/2021/07/19/dL1cm.png" alt='sentimnet-analysis' align="left" height=300 width=480> </a>
-<img src="https://i.im.ge/2021/07/19/dL2er.png" alt='sentimnet-analysis' align="right" height=300 width=480> </a></p><br>
-
-
-
-
+<img src="https://i.im.ge/2021/07/19/dL2er.png" alt='sentimnet-analysis' align="right" height=300 width=480> </a><br>
+</p>
 
 
 
