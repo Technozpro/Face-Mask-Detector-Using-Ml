@@ -13,8 +13,12 @@ Image URL link
 Base64 image
 
 
-Output:
-Masked: With Mask or Without Mask
+Output: With Mask or Without Mask
+
+<p align="left">
+<img src="https://i.im.ge/2021/07/19/dL1cm.png" alt='sentimnet-analysis' height=300 width=480> </a></p>
+<p align="right">
+<img src="https://5.imimg.com/data5/PI/FD/NK/SELLER-5866466/images-500x500.jpg" alt='sentimnet-analysis' height=300 width=480> </a></p>
 
 
 Ability & Potentials:
