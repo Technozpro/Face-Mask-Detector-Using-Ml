@@ -23,6 +23,10 @@ Output: With Mask or Without Mask
 
 
 
+
+
+
+<p>
 Ability & Potentials:
 
 Recall rate on FDDB:70.6, Classification Accuracy: 85.7.
@@ -56,3 +60,4 @@ Image URL must start with HTTPS
 Image size should not exceed 8 MB.
 
 Also, the images should not be larger than 5000 pixels and smaller than 50 pixels.
+</p>
