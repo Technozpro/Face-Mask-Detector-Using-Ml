@@ -5,51 +5,51 @@ Detect that the person wear a mask or not. It is necessary for many places speci
 <img src="https://5.imimg.com/data5/PI/FD/NK/SELLER-5866466/images-500x500.jpg" alt='sentimnet-analysis' height=300 width=480> </a></p>
 
 <p>
-Ability & Potentials:
-Recall rate on FDDB:70.6, Classification Accuracy: 85.7.
+- Ability & Potentials:
+1. Recall rate on FDDB:70.6, Classification Accuracy: 85.7.
 
-Less than 300 milliseconds processing time.
+2. Less than 300 milliseconds processing time.
 
-Detect all small and large faces.
+3. Detect all small and large faces.
 
-High-precision detection of size; pitch, roll, yaw, and 14-point key landmarks.
+4. High-precision detection of size; pitch, roll, yaw, and 14-point key landmarks.
 
-Low resource and impressive high performance.
+5. Low resource and impressive high performance.
 
-Robust detection of faces with rotation, glasses, etc.
+6. Robust detection of faces with rotation, glasses, etc.
 
-Region of interest detection.
+7. Region of interest detection.
 
-Easy integration with your app.
+8. Easy integration with your app.
 
 
 
-Use Cases:
+- Use Cases:
 
 Building access control
 
-Rules & Restrictions:
+- Rules & Restrictions:
 
-Send data via base64 or an image URL or an image file.
+1. Send data via base64 or an image URL or an image file.
 
-Image URL must start with HTTPS
+2. Image URL must start with HTTPS
 
-Image size should not exceed 8 MB.
+3. Image size should not exceed 8 MB.
 
-Also, the images should not be larger than 5000 pixels and smaller than 50 pixels.
+4. Also, the images should not be larger than 5000 pixels and smaller than 50 pixels.
 </p>
 
 
-Input:
+- Input:
 
-Image file
+1. Image file
 
-Image URL link
+2. Image URL link
 
-Base64 image
+3. Base64 image
 
 
-Output: With Mask or Without Mask
+- Output: With Mask or Without Mask
 
 <p>
 <img src="https://i.im.ge/2021/07/19/dL1cm.png" alt='sentimnet-analysis' align="left" height=300 width=480> </a>
