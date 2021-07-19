@@ -1,7 +1,11 @@
 # Face-Mask-Detector-Using-Ml
 Detect that the person wear a mask or not. It is necessary for many places specially in the meantime of Covid19.Wearing masks in all kinds of public places still needs supervision.
 
+<p align="center">
+<img src="https://5.imimg.com/data5/PI/FD/NK/SELLER-5866466/images-500x500.jpg" alt='sentimnet-analysis' height=300 width=480> </a></p>
+
 Input:
+
 Image file
 
 Image URL link
@@ -14,6 +18,7 @@ Masked: With Mask or Without Mask
 
 
 Ability & Potentials:
+
 Recall rate on FDDB:70.6, Classification Accuracy: 85.7.
 
 Less than 300 milliseconds processing time.
@@ -37,6 +42,7 @@ Use Cases:
 Building access control
 
 Rules & Restrictions:
+
 Send data via base64 or an image URL or an image file.
 
 Image URL must start with HTTPS
